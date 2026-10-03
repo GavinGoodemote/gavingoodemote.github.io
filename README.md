@@ -11,7 +11,7 @@ Free static website starter for an energy research publication.
 
 ## Suggested next step
 
-When the first report is ready, create `halliburton.html` using the same header, footer, and styles. Link it from the Halliburton row in `research.html`.
+Sector reports use `shell-sector-report.html` as the current example. Company valuation reports can use the same header, footer, and styles in a new file such as `halliburton.html`, then be linked from the Company Valuations section in `research.html`.
 
 ## Free publishing
 
